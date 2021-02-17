@@ -13,8 +13,8 @@
 
 [![](https://img.shields.io/badge/OnePlus-8T-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
 
-[![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=css3&logoColor=white)](https://developer.android.com/)
-[![](https://img.shields.io/badge/-Python-8FB4EC?style=flat-square&logo=css3&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://developer.android.com/)
+[![](https://img.shields.io/badge/-Python-8FB4EC?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
