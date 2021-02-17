@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/OnePlus-8T-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
-[![](https://img.shields.io/badge/Dell%20XPS-0078D6?style=flat-square&logo=Dell&logoColor=white)](https://www.delll.com/)
+[![](https://img.shields.io/badge/Dell-XPS-0078D6?style=flat-square&logo=Dell&logoColor=white)](https://www.delll.com/)
 
 
 [![](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white)](https://developer.android.com/)
